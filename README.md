@@ -7,5 +7,5 @@ Do not use for competitive games. This package is to be used in casual co-op gam
 
 ## Setup
 
--Package manager > Install netcode for game objects from unity registry
--Package manager > add git repo for Steamworks using https://github.com/Unity-Technologies/multiplayer-community-contributions.git?path=/Transports/com.community.netcode.transport.facepunch 
+- Package manager > Install netcode for game objects from unity registry
+- Package manager > add git repo for Steamworks using https://github.com/Unity-Technologies/multiplayer-community-contributions.git?path=/Transports/com.community.netcode.transport.facepunch 
